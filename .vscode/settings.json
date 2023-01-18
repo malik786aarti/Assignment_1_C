@@ -1,26 +1,7 @@
 {
     "files.associations": {
         "Assignment1.C": "cpp",
-        "Assigmet2.C": "cpp",
-        "Assigment3.C": "cpp",
-        "Assignment4.C": "cpp",
-        "Assignment3.C": "cpp",
         "Assignment2.C": "cpp",
-        "Assignment5.C": "cpp",
-        "Assignment6.C": "cpp",
-        "Assignment7.C": "cpp",
-        "Assignment8.C": "cpp",
-        "Assignment .C": "cpp",
-        "Assignment9 .C": "cpp",
-        "Assignment9.C": "cpp",
-        "Assignment10.C": "cpp",
-        "tempCodeRunnerFile.C": "cpp",
-        "Assignment11.C": "cpp",
-        "Assignment12.C": "cpp",
-        "Assignment13.C": "cpp",
-        "Assignment14.C": "cpp",
-        "Assignment15.C": "cpp",
-        "Assignment16.C": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "disabled"
+        "Assignment3.C": "cpp"
+    }
 }
