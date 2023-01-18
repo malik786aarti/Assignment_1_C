@@ -38,12 +38,12 @@ Expected output format – “Area of circle is A having the radius R”. Replac
 
 /* Q6) Program to print the name of the user in double quotes.
 Expected output format – “Hello , Amit Kumar” 
+*/
 
       char ch[20]="";
       printf("Enter your Name: ");
       scanf("%[^\n]s",&ch);
       printf("Hello, %s",ch);
-*/
 
 
 /* Q7) Program to print “%d” on the screen.
@@ -84,3 +84,14 @@ Example –
 */
 return 0;
 }
+
+/* Q12) Find output of below code:
+int main()
+{
+int x = printf(“ineuron”);
+printf(“%d”,x);
+return 0;
+
+output will be- ineuron7
+Explaination- printf("ineuron") print value ineuron and return an integer value 7 which store  into x and  and second printf print the value of x.
+}*/
